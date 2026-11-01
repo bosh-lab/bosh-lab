@@ -16,14 +16,16 @@ I’m particularly interested in **Security Operations (SOC), SIEM, incident inv
 
 ## 🔐 Technical Interests & Skills
 
-- **SIEM & Log Analysis:** [Splunk](https://github.com/bosh-lab/bishoy-hany-cybersecurity-portfolio/tree/main/03-Splunk-Labs), SPL, and [IBM QRadar](https://github.com/bosh-lab/bishoy-hany-cybersecurity-portfolio/tree/main/04-QRadar-Labs)
+- **SIEM & Detection Engineering:** [Splunk](https://github.com/bosh-lab/bishoy-hany-cybersecurity-portfolio/tree/main/03-Splunk-Labs), SPL, alert creation, detection tuning, and [IBM QRadar](https://github.com/bosh-lab/bishoy-hany-cybersecurity-portfolio/tree/main/04-QRadar-Labs)
 - **Digital Forensics:** Windows Registry artifacts, USB device analysis, forensic timelines, and investigation reporting
 - **Network Security:** [FortiGate firewall policies and security profiles](https://github.com/bosh-lab/bishoy-hany-cybersecurity-portfolio/tree/main/05-FortiGate-Firewall-Security-Lab)
 - **Networking:** Network fundamentals, troubleshooting, and CCNA studies
+- **Windows Event Analysis:** Windows Security/System logs, Sysmon events, and event correlation
 - **Operating Systems:** Windows and Linux fundamentals
 
 ## 🧪 Featured Projects
 
+- **[Splunk SIEM Detection Lab](https://github.com/bosh-lab/bishoy-hany-cybersecurity-portfolio/tree/main/splunk-siem-detection-lab)** — Built a home-lab SIEM collecting Windows, Sysmon, Linux, and Apache logs; created and attack-tested six MITRE ATT&CK-mapped alerts, tuned noisy detections, and built a SOC-style dashboard.
 - **[Cybersecurity Portfolio](https://github.com/bosh-lab/bishoy-hany-cybersecurity-portfolio)** — Hands-on cybersecurity labs, investigation reports, and technical documentation.
 - **[USB Registry Investigation](https://github.com/bosh-lab/bishoy-hany-cybersecurity-portfolio/tree/main/USB-Registry-Investigation)** — Examining Windows Registry artifacts to identify USB device connection evidence and build an investigation timeline.
 - **[Splunk Labs](https://github.com/bosh-lab/bishoy-hany-cybersecurity-portfolio/tree/main/03-Splunk-Labs)** — SIEM searches and SPL practice.
@@ -32,10 +34,7 @@ I’m particularly interested in **Security Operations (SOC), SIEM, incident inv
 
 ## 📚 Training & Learning
 
-- ITGate cybersecurity diploma
-- Fortinet NSE 4 studies
-- CCNA coursework
-- Continuously developing practical skills in SOC operations, SIEM, incident response, and DFIR
+- ITGate cybersecurity diploma; currently studying Fortinet NSE 4 and continuously developing practical skills in SOC operations, SIEM detection, incident response, and DFIR.
 
 ## 🎯 Career Goal
 
