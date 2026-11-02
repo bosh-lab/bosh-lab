@@ -1,10 +1,26 @@
 # Hi, I'm Bishoy Hany 👋
 
-### Aspiring SOC Analyst | Cybersecurity | SIEM | Digital Forensics
+### Cybersecurity | SOC Analyst Trainee | Splunk SIEM | Digital Forensics
 
-I'm a Computer Science student in Cairo, Egypt, focused on building practical cybersecurity skills through hands-on labs, investigations, and technical projects.
+I'm a Computer Science student in Cairo, Egypt, building practical Blue Team skills through hands-on SIEM labs, detection engineering, Windows investigations, and network-security projects.
 
-I’m particularly interested in **Security Operations (SOC), SIEM, incident investigation, network security, and Digital Forensics & Incident Response (DFIR).**
+I am open to **entry-level SOC opportunities** and carefully scoped **remote defensive-cybersecurity freelance projects**.
+
+## 🤝 What I Can Help With
+
+- **Splunk log analysis:** SPL searches, review of authorized log samples, dashboards, and detection documentation.
+- **Windows forensic artifact review:** USB-related registry artifact examination and evidence-based investigation reports.
+- **SIEM documentation:** lab/non-production Splunk and QRadar configuration review, technical notes, and recommendations.
+
+My public projects are training labs and portfolio demonstrations, not claims of paid client work. I accept only authorized, clearly scoped defensive tasks.
+
+## 🧪 Featured Projects
+
+- **[Splunk SIEM Detection Lab](https://github.com/bosh-lab/bishoy-hany-cybersecurity-portfolio/tree/main/splunk-siem-detection-lab)** — Splunk home lab collecting Windows, Sysmon, Linux, and Apache logs; six MITRE ATT&CK-mapped alerts tested through controlled lab simulations; dashboard and tuning notes.
+- **[USB Registry Investigation](https://github.com/bosh-lab/bishoy-hany-cybersecurity-portfolio/tree/main/USB-Registry-Investigation)** — Windows SYSTEM hive review of USBSTOR, MountedDevices, and DeviceClasses, with timeline correlation and an evidence-qualified report.
+- **[IBM QRadar Labs](https://github.com/bosh-lab/bishoy-hany-cybersecurity-portfolio/tree/main/04-QRadar-Labs)** — QRadar configuration examples, threat-intelligence context menus, reference-set example, custom-action example, and health-check reporting script.
+- **[FortiGate Security Lab](https://github.com/bosh-lab/bishoy-hany-cybersecurity-portfolio/tree/main/05-FortiGate-Firewall-Security-Lab)** — Virtual firewall policy, NAT, and security-profile configuration.
+- **[Splunk Log Analysis Labs](https://github.com/bosh-lab/bishoy-hany-cybersecurity-portfolio/tree/main/03-Splunk-Labs)** — Seven SPL exercises covering DNS, FTP, HTTP, SSH, tunnel, SMTP, and DHCP logs.
 
 ## 🏅 Certifications & Training
 
@@ -13,39 +29,26 @@ I’m particularly interested in **Security Operations (SOC), SIEM, incident inv
 - **ECIR (Certified Incident Responder):** 49/50 — Pass
 - **eCDFP (Digital Forensics Professional):** 49/50 — Pass
 - **CCNA:** Completed three Cisco Networking Academy modules
+- ITGate cybersecurity diploma; completed course content in Splunk SIEM, QRadar, Firewall Basics/NSE4, Linux Administration, and incident response.
 
-## 🔐 Technical Interests & Skills
+## 🔐 Technical Skills
 
-- **SIEM & Detection Engineering:** [Splunk](https://github.com/bosh-lab/bishoy-hany-cybersecurity-portfolio/tree/main/03-Splunk-Labs), SPL, alert creation, detection tuning, and [IBM QRadar](https://github.com/bosh-lab/bishoy-hany-cybersecurity-portfolio/tree/main/04-QRadar-Labs)
-- **Digital Forensics:** Windows Registry artifacts, USB device analysis, forensic timelines, and investigation reporting
-- **Network Security:** [FortiGate firewall policies and security profiles](https://github.com/bosh-lab/bishoy-hany-cybersecurity-portfolio/tree/main/05-FortiGate-Firewall-Security-Lab)
-- **Networking:** Network fundamentals, troubleshooting, and CCNA studies
-- **Windows Event Analysis:** Windows Security/System logs, Sysmon events, and event correlation
+- **SIEM & Detection:** Splunk, SPL, alert creation, detection tuning, IBM QRadar lab configurations
+- **Digital Forensics:** Windows Registry artifacts, USB device analysis, forensic timelines, investigation reporting
+- **Network Security:** FortiGate firewall policies and security profiles
+- **Endpoint Telemetry:** Windows Security/System logs and Sysmon
+- **Networking:** CCNA-level routing, switching, and troubleshooting fundamentals
 - **Operating Systems:** Windows and Linux fundamentals
-
-## 🧪 Featured Projects
-
-- **[Splunk SIEM Detection Lab](https://github.com/bosh-lab/bishoy-hany-cybersecurity-portfolio/tree/main/splunk-siem-detection-lab)** — Built a home-lab SIEM collecting Windows, Sysmon, Linux, and Apache logs; created and attack-tested six MITRE ATT&CK-mapped alerts, tuned noisy detections, and built a SOC-style dashboard.
-- **[Cybersecurity Portfolio](https://github.com/bosh-lab/bishoy-hany-cybersecurity-portfolio)** — Hands-on cybersecurity labs, investigation reports, and technical documentation.
-- **[USB Registry Investigation](https://github.com/bosh-lab/bishoy-hany-cybersecurity-portfolio/tree/main/USB-Registry-Investigation)** — Examining Windows Registry artifacts to identify USB device connection evidence and build an investigation timeline.
-- **[Splunk Labs](https://github.com/bosh-lab/bishoy-hany-cybersecurity-portfolio/tree/main/03-Splunk-Labs)** — SIEM searches and SPL practice.
-- **[FortiGate Security Lab](https://github.com/bosh-lab/bishoy-hany-cybersecurity-portfolio/tree/main/05-FortiGate-Firewall-Security-Lab)** — Firewall configuration and security-profile exercises.
-- **[IBM QRadar Labs](https://github.com/bosh-lab/bishoy-hany-cybersecurity-portfolio/tree/main/04-QRadar-Labs)** — SIEM learning and practical exercises.
-
-## 📚 Training & Learning
-
-- ITGate cybersecurity diploma; currently studying Fortinet NSE 4 and continuously developing practical skills in SOC operations, SIEM detection, incident response, and DFIR.
 
 ## 🎯 Career Goal
 
-I'm working toward an entry-level **SOC Analyst / SOC Tier 1** role where I can contribute to security monitoring and investigation while learning from an experienced security team.
+To contribute to a SOC team as an entry-level SOC Analyst / SOC Tier 1 while taking on suitable remote defensive-security projects that match my demonstrated skills.
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
 - **LinkedIn:** [Bishoy Hany](https://www.linkedin.com/in/bishoy-hany-519baa373/)
 - **TryHackMe:** [hanybishoy440](https://tryhackme.com/p/hanybishoy440)
-- **GitHub Portfolio:** [Cybersecurity Portfolio](https://github.com/bosh-lab/bishoy-hany-cybersecurity-portfolio)
+- **Cybersecurity Portfolio:** [View my projects and sample reports](https://github.com/bosh-lab/bishoy-hany-cybersecurity-portfolio)
 
 ---
-
 ⭐ Thanks for visiting my profile!
